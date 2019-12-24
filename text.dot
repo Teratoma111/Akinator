@@ -1,0 +1,10 @@
+digraph G{
+"Human"->"vlad"->"vlad2";
+"Human"->"koala"->"forest"->"have_head"->"cat";
+"have_head"->"mushroom";
+"forest"->"bear";
+"koala"->"big_bear"->"black"->"black_bear";
+"black"->"brown"->"brown_bear";
+"brown"->"white_bear";
+"big_bear"->"rrr";
+}
